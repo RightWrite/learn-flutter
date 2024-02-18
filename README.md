@@ -1,2 +1,5 @@
 # LearnFlutter
-Repo for my Flutter Learning Path
+
+## step 1: development environment setup
+  
+## step 2:  
